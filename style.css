@@ -15,4 +15,5 @@
 ul{
     list-style: none;
     font-family: "Red Hat Display", sans-serif;
+    display: inline-block;
 }
