@@ -3,7 +3,13 @@
 .cabecalho{
     width: 100%;
     background-color: wheat;
+    display:flex;
 }
+
+.cabecalho__img{
+    
+}
+
 
 .cabecalho__titulo{
     color: black;
