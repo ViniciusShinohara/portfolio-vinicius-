@@ -2,17 +2,17 @@
 
 .cabecalho{
     width: 100%;
-    text-align: center;
-    background-color: pink;
+    background-color: wheat;
 }
 
 .cabecalho__titulo{
-    color: #00f;
+    color: black;
     font-family: "Red Hat Display", sans-serif;
     font-weight: 700;
+    text-align: center;
 }
 
-ul{
+.cabecalho__menu{
     list-style: none;
     font-family: "Red Hat Display", sans-serif;
   
